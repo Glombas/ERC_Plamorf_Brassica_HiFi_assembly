@@ -1,6 +1,6 @@
 # ERC_Plamorf_Brassica_HiFi_assembly
 
-This repository contains scripts developed for the draft genome assemblies of two FastPlants(r) _Brassica napus_ and _Brassica rapa_.
+This repository contains scripts developed for the draft genome assemblies of two FastPlants(r) _Brassica napus_ and _Brassica rapa_, including the code generating figures for the manuscript.
 
 Workflow:
 
