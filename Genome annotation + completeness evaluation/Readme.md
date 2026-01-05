@@ -1,1 +1,1 @@
-This folder contains scripts developed for annotation and evaluation of its completeness.
+This folder contains scripts developed for annotation. Completeness was evaluated using online version of [OMArk](https://omark.omabrowser.org/). Results were uploaded to the project repository on XXX.
