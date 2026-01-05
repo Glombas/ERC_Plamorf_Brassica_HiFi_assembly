@@ -4,8 +4,9 @@ This repository contains scripts developed for the draft genome assemblies of tw
 
 Workflow:
 
-**QC**
+1. K-mer analysis
+2. Genome assembly + completeness evaluation
+3. Repeat annotation
+4. Genome annotation + completeness evaluation
+5. SV identification
 
-1. Adapter filtering
-2. K-mer analysis
-3. 
